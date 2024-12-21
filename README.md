@@ -1,4 +1,4 @@
-CMP343 Final Project: Chat Application
+CMP343 Final Project: Live Chat Application
 
 Description
 
