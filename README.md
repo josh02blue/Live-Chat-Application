@@ -62,7 +62,7 @@ Multer: Handles file uploads.
 
 Test Profile Logins
 
-Use the following test accounts to log in:
+Use the following test accounts to log in. When testing, please use an incognito window to avoid issues with cookies
 
 Email: john@email.com | Password: 123456
 
